@@ -1,4 +1,4 @@
-# Rock Paper Scissors game
+# Rock Paper Scissors game 👀
 
 Rock, paper or scissors in your terminal! Have fun with this Python app that challenges you to take on the machine. 
 Choose between rock, paper and scissors. 
